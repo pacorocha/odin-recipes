@@ -1,16 +1,17 @@
-.odd {
-	font-family: Verdana, 'DejaVu Sans', sans-serif;
-	background-color:rgb(232, 131, 131);
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: lightgrey;
+	color: #030303;
 }
-#second {
-	color: rgb(20, 20, 88);
-	font-size: 36px;
-}
-.odd.cooler {
-	font-size: 24px;
-}
-#fourth {
-	background-color: rgb(121, 221, 121);
+h1,
+h2,
+h3,
+h4 {
+	background-color: darkslategrey;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 img {
 	width: 500px;
